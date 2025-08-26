@@ -1,7 +1,7 @@
 <pre lang="markdown">Import-Module Microsoft.Graph.Authentication
 Import-Module Microsoft.Graph.Applications
-$tenantId = "005e2b3c-9ed9-49d9-af8c-c1f24bf07099"        # Your tenant ID
-$MSIName = "Revoke-EntraIDSignInSessions-incident"; # Name of your managed identity
+$tenantId = "<>"        # Your tenant ID
+$MSIName = ""; # Name of your managed identity
 # Log in as a user with the "Privileged Role Administrator" role
 Connect-MgGraph -TenantId $tenantId -Scopes "AppRoleAssignment.ReadWrite.All,Application.Read.All"
 # Search for Microsoft Graph
