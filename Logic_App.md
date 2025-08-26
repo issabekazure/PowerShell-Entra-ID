@@ -1,3 +1,5 @@
+Grant access to Managed Identity Script
+
 <pre lang="markdown">Import-Module Microsoft.Graph.Authentication
 Import-Module Microsoft.Graph.Applications
 $tenantId = "<>"        # Your tenant ID
