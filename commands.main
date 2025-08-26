@@ -1,1 +1,1 @@
-<pre lang="markdown"> ```Connect-MgGraph -Scopes "Group.Readwrite.All", "User.ReadWrite.All"``` </pre>
+<pre lang="markdown"> ```powershellConnect-MgGraph -Scopes "Group.Readwrite.All", "User.ReadWrite.All"``` </pre>
