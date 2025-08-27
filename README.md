@@ -1,2 +1,2 @@
-# PowerShell-Entra-ID
+# PowerShell-Commands-Collection
 MS-Graph and Powershell Commands
