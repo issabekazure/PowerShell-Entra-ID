@@ -32,3 +32,11 @@ foreach($AppRole in $MSGraphAppRoles)
     }
 New-MgServicePrincipalAppRoleAssignment -ServicePrincipalId $AppRoleAssignment.PrincipalId -BodyParameter $AppRoleAssignment -Verbose
 }</pre>
+This PowerShell script:
+
+* Imports Microsoft Graph modules
+* Connects to Microsoft Graph with required scopes
+* Finds the **Microsoft Graph service principal** and a **managed identity** by name
+* Assigns the **`User.RevokeSessions.All`** app role permission from Microsoft Graph to the managed identity
+
+It's used to **grant a managed identity permission** to revoke user sessions via Microsoft Graph.
