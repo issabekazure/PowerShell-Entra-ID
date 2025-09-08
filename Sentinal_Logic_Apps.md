@@ -40,3 +40,36 @@ This PowerShell script:
 * Assigns the **`User.RevokeSessions.All`** app role permission from Microsoft Graph to the managed identity
 
 It's used to **grant a managed identity permission** to revoke user sessions via Microsoft Graph.
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
