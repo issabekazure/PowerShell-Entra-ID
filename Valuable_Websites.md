@@ -1,6 +1,6 @@
 <pre lang="markdown">www.exploit-db.com</pre>
 <pre lang="markdown">https://cve.mitre.org</pre>
-<pre lang="markdown"></pre>
+<pre lang="markdown">https://github.com/Azure/Azure-Sentinel/tree/master/Hunting%20Queries</pre>
 <pre lang="markdown"></pre>
 <pre lang="markdown"></pre>
 <pre lang="markdown"></pre>
