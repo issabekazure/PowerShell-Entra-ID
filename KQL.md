@@ -20,7 +20,8 @@
 | take 100
 | sort by Timestamp desc</pre>
 
-<pre lang="markdown"></pre>
+<pre lang="markdown">EmailEvents
+| where AttachmentCount >= 1</pre>
 <pre lang="markdown"></pre>
 <pre lang="markdown"></pre>
 <pre lang="markdown"></pre>
