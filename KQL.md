@@ -14,3 +14,7 @@
 <pre lang="markdown">search "<user_principle_name>"
 | summarize by $table
 </pre>
+
+DeviceRegistryEvents
+| take 100
+| sort by Timestamp desc
