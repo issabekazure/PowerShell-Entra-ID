@@ -15,6 +15,39 @@
 | summarize by $table
 </pre>
 
-DeviceRegistryEvents
+
+<pre lang="markdown">DeviceRegistryEvents
 | take 100
-| sort by Timestamp desc
+| sort by Timestamp desc</pre>
+
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
+<pre lang="markdown"></pre>
